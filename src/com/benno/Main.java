@@ -3,7 +3,7 @@ package com.benno;
         NAMA        : BENNO ALIF ANGGARA
         KELAS       : IF1
         NIM         : 10118024
-        Deskripsi   : Memasukkan nilai dari keyboard
+        Deskripsi   : Menampilkan kelipatan 3.5
      */
 
 public class Main {
